@@ -14249,3 +14249,10 @@ Entries:
   id: 1580
   time: '2025-11-23T18:40:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2671
+- author: GOLDMASK990
+  changes:
+    - type: Add
+      message: Added AKM to arsenal T2 research, printable at Merc fabs
+  id: 1581
+  time: '2025-11-25T16:59:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2681
