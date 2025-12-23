@@ -15157,3 +15157,10 @@ Entries:
   id: 1680
   time: '2025-12-23T19:29:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2784
+- author: Ilya246
+  changes:
+    - type: Add
+      message: Added a lot of lattice tile shapes for mapping.
+  id: 1681
+  time: '2025-12-23T19:29:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2851
