@@ -15298,3 +15298,10 @@ Entries:
   id: 1697
   time: '2025-12-28T06:52:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2882
+- author: tonotom1
+  changes:
+    - type: Fix
+      message: Baeg front windows reattached to the structure
+  id: 1698
+  time: '2025-12-29T00:24:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2891
