@@ -15392,3 +15392,13 @@ Entries:
   id: 1707
   time: '2025-12-30T16:57:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2881
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Kammerer and Big Johnny 30% spread reduction. Double-Barrel 60% spread
+        reduction. All credit to SpeltIncorrectyl for the spread reduction
+        system ported
+  id: 1708
+  time: '2025-12-30T18:00:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2895
