@@ -15533,3 +15533,12 @@ Entries:
   id: 1723
   time: '2026-01-01T14:54:22.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2907
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: Cryo chemicals will force hydrakins to sleep on low temperatures.
+    - type: Tweak
+      message: 'Gas interactions for hydrakins were improved '
+  id: 1724
+  time: '2026-01-01T15:02:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2903
