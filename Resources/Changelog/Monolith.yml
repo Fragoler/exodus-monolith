@@ -15725,3 +15725,14 @@ Entries:
   id: 1746
   time: '2026-01-04T02:01:34.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2944
+- author: burrrkeye
+  changes:
+    - type: Add
+      message: >-
+        Every faction ship with the sole exception of PDV Sable can now add
+        slots of Faction Cyborgs from their records console to allow Clankers to
+        latejoin them, similiarly as to how PDV Rahkshan and TSF Marine could
+        latejoin into ships. The Clanker uprising is now.
+  id: 1747
+  time: '2026-01-04T09:31:07.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2940
