@@ -15775,3 +15775,12 @@ Entries:
   id: 1750
   time: '2026-01-05T08:13:39.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2949
+- author: Arcticular1
+  changes:
+    - type: Fix
+      message: >-
+        Hydra has been buffed to fire 3 rounds in a barrage (it was the same as
+        cyrexa before)
+  id: 1751
+  time: '2026-01-05T13:18:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2953
