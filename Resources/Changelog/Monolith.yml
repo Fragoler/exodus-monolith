@@ -15885,3 +15885,12 @@ Entries:
   id: 1762
   time: '2026-01-08T13:06:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2969
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Ported from Wizden: You can make pills from beaker with the Chem
+        Master!!! All credit to OnyxTheBrave.
+  id: 1763
+  time: '2026-01-08T20:18:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2971
