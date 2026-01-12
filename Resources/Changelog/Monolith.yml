@@ -16120,3 +16120,12 @@ Entries:
   id: 1786
   time: '2026-01-12T13:26:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2997
+- author: Helicaste
+  changes:
+    - type: Add
+      message: >-
+        New guidebook pages for S1, S2, and S4 mechs exist. Read them if you're
+        a nerd.
+  id: 1787
+  time: '2026-01-12T13:33:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3015
