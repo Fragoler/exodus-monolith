@@ -16527,3 +16527,12 @@ Entries:
   id: 1831
   time: '2026-01-24T19:25:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3098
+- author: Arcticular1
+  changes:
+    - type: Tweak
+      message: Metal foam is now strong as a solid wall.
+    - type: Tweak
+      message: Nanolaminate foam is now strong as a reinforced wall.
+  id: 1832
+  time: '2026-01-24T19:28:59.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3101
