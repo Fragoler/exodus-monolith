@@ -16520,3 +16520,10 @@ Entries:
   id: 1830
   time: '2026-01-24T15:28:10.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3116
+- author: Avalon-Proto
+  changes:
+    - type: Tweak
+      message: Ore silo range gigabuffed to 125m from 20m
+  id: 1831
+  time: '2026-01-24T19:25:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3098
