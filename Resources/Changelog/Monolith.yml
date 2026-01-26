@@ -16624,3 +16624,10 @@ Entries:
   id: 1840
   time: '2026-01-26T15:36:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3089
+- author: Greenwall-Exe
+  changes:
+    - type: Add
+      message: Added Jump Boots and the ability to Jump
+  id: 1841
+  time: '2026-01-26T15:37:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2973
