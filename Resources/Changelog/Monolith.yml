@@ -16770,3 +16770,10 @@ Entries:
   id: 1856
   time: '2026-01-31T22:18:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3152
+- author: Ghost581X
+  changes:
+    - type: Tweak
+      message: Combat magboots are slightly more mobile now.
+  id: 1857
+  time: '2026-01-31T22:24:39.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3127
