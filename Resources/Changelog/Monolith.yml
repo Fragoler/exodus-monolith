@@ -16805,3 +16805,12 @@ Entries:
   id: 1860
   time: '2026-02-01T18:30:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3150
+- author: WaldenStn
+  changes:
+    - type: Tweak
+      message: >-
+        Replaced Jupiter shipyard console's Spyglass with the newer PDV Spyglass
+        MKII variant.
+  id: 1861
+  time: '2026-02-01T18:31:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3148
