@@ -16786,3 +16786,12 @@ Entries:
   id: 1858
   time: '2026-01-31T22:38:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3143
+- author: KeiKiyomi
+  changes:
+    - type: Tweak
+      message: Buffed Durand health and speed
+    - type: Tweak
+      message: Added extra equipment slot to Durand
+  id: 1859
+  time: '2026-02-01T18:26:14.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3162
