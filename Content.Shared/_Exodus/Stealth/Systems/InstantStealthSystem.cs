@@ -1,6 +1,5 @@
 using Content.Shared.Exodus.Stealth.Components;
 using Content.Shared.Mobs;
-using Robust.Shared.GameStates;
 
 namespace Content.Shared.Exodus.Stealth;
 
@@ -34,11 +33,15 @@ public sealed partial class InstantStealthSystem : EntitySystem
 
     private void OnMobStateChanged(EntityUid uid, InstantStealthComponent comp, MobStateChangedEvent args)
     {
-        if (args.NewMobState == MobState.Alive && !comp.Stealth.EnabledOnCrit)
+        if (args.NewMobState == MobState.Critical && !comp.Stealth.EnabledOnCrit)
         {
-            _stealthSystem.RequestStealth(uid, nameof(InstantStealthSystem), comp.Stealth);
+            _stealthSystem.RemoveRequest(nameof(InstantStealthSystem), uid);
         }
-        else if (args.NewMobState == MobState.Alive && !comp.Stealth.EnabledOnDeath)
+        else if (args.NewMobState == MobState.Dead && !comp.Stealth.EnabledOnDeath)
+        {
+            _stealthSystem.RemoveRequest(nameof(InstantStealthSystem), uid);
+        }
+        else if (args.NewMobState == MobState.Alive && comp.Enabled)
         {
             _stealthSystem.RequestStealth(uid, nameof(InstantStealthSystem), comp.Stealth);
         }
