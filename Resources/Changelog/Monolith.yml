@@ -17118,3 +17118,20 @@ Entries:
   id: 1891
   time: '2026-02-16T19:20:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3232
+- author: 10kee
+  changes:
+    - type: Add
+      message: Vox can now wag their tails.
+    - type: Add
+      message: Vox can now hiss, chitter, and click their beaks.
+    - type: Add
+      message: Vox can now speak Vox Pidgin.
+    - type: Tweak
+      message: >-
+        Most hardsuits, outer clothing, and modsuits now have relevant Vox
+        sprites.
+    - type: Tweak
+      message: The Vox displacement map has been tweaked.
+  id: 1892
+  time: '2026-02-16T20:13:47.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3191
