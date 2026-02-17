@@ -17135,3 +17135,10 @@ Entries:
   id: 1892
   time: '2026-02-16T20:13:47.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3191
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Hydrakin right leg marking displays properly.
+  id: 1893
+  time: '2026-02-17T05:04:36.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3236
