@@ -29,6 +29,8 @@
     clothingVisuals:
       outerClothing:
       - state: equipped-OUTERCLOTHING-sealed
+      outerClothing-vox:
+      - state: equipped-OUTERCLOTHING-sealed-vox
   - type: ExplosionResistance
     damageCoefficient: 0.5
   - type: StaminaDamageResistance
@@ -85,6 +87,8 @@
     clothingVisuals:
       outerClothing:
       - state: equipped-OUTERCLOTHING-sealed
+      outerClothing-vox:
+      - state: equipped-OUTERCLOTHING-sealed-vox
   - type: ExplosionResistance
     damageCoefficient: 0.3
   - type: StaminaDamageResistance
@@ -138,6 +142,8 @@
     clothingVisuals:
       outerClothing:
       - state: equipped-OUTERCLOTHING-sealed
+      outerClothing-vox:
+      - state: equipped-OUTERCLOTHING-sealed-vox
   - type: ExplosionResistance
     damageCoefficient: 0.45
   - type: StaminaDamageResistance
@@ -201,6 +207,8 @@
     clothingVisuals:
       outerClothing:
       - state: equipped-OUTERCLOTHING-sealed
+      outerClothing-vox:
+      - state: equipped-OUTERCLOTHING-sealed-vox
       outerClothing-resomi:
       - state: equipped-OUTERCLOTHING-sealed-resomi
   - type: ExplosionResistance
@@ -258,6 +266,8 @@
     clothingVisuals:
       outerClothing:
       - state: equipped-OUTERCLOTHING-sealed
+      outerClothing-vox:
+      - state: equipped-OUTERCLOTHING-sealed-vox
       outerClothing-resomi:
       - state: equipped-OUTERCLOTHING-sealed-resomi
   - type: ExplosionResistance

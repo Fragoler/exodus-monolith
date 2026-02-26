@@ -24,6 +24,8 @@
     clothingVisuals:
       head:
       - state: equipped-HEAD-sealed
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:
@@ -112,6 +114,8 @@
     clothingVisuals:
       head:
       - state: equipped-HEAD-sealed
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:
@@ -204,6 +208,8 @@
     clothingVisuals:
       head:
       - state: equipped-HEAD-sealed
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:
@@ -305,6 +311,8 @@
     clothingVisuals:
       head:
       - state: equipped-HEAD-sealed
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:
@@ -408,6 +416,8 @@
     clothingVisuals:
       head:
       - state: equipped-HEAD-sealed
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:

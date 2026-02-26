@@ -19,6 +19,9 @@
     clothingVisuals:
       head:
       - state: equipped-HEAD
+      head-vox:
+      - state: equipped-HEAD-vox
+      
   - type: Tag
     tags:
     - WhitelistChameleon
@@ -68,6 +71,8 @@
       - state: equipped-HEAD-sealed
       head-resomi:
       - state: equipped-HEAD-sealed-resomi
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:
@@ -145,6 +150,8 @@
       - state: equipped-HEAD
       head-resomi:
       - state: equipped-HEAD-resomi
+      head-vox:
+      - state: equipped-HEAD-vox
   - type: Sprite
     sprite: _Goobstation/Clothing/Head/Modsuits/security.rsi
     layers:
@@ -165,6 +172,8 @@
       - state: equipped-HEAD-sealed
       head-resomi:
       - state: equipped-HEAD-sealed-resomi
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:
@@ -243,6 +252,8 @@
       - state: equipped-HEAD
       head-resomi:
       - state: equipped-HEAD-resomi
+      head-vox:
+      - state: equipped-HEAD-vox
   - type: Sprite
     sprite: _Goobstation/Clothing/Head/Modsuits/headofsecurity.rsi
     layers:
@@ -263,6 +274,8 @@
       - state: equipped-HEAD-sealed
       head-resomi:
       - state: equipped-HEAD-sealed-resomi
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:
@@ -352,6 +365,8 @@
     clothingVisuals:
       head:
       - state: equipped-HEAD-sealed
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:
@@ -441,6 +456,8 @@
     clothingVisuals:
       head:
       - state: equipped-HEAD-sealed
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:
@@ -528,6 +545,8 @@
       - state: equipped-HEAD
       head-resomi:
       - state: equipped-HEAD-resomi
+      head-vox:
+      - state: equipped-HEAD-vox
   - type: SealableClothing
     sealUpPopup: sealable-clothing-seal-up-helmet
     sealDownPopup: sealable-clothing-seal-down-helmet
@@ -538,6 +557,8 @@
       - state: equipped-HEAD-sealed
       head-resomi:
       - state: equipped-HEAD-sealed-resomi
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:
@@ -627,6 +648,8 @@
     clothingVisuals:
       head:
       - state: equipped-HEAD-sealed
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:
@@ -704,6 +727,8 @@
       - state: equipped-HEAD
       head-resomi:
       - state: equipped-HEAD-resomi
+      head-vox:
+      - state: equipped-HEAD-vox
   - type: Sprite
     sprite: _Goobstation/Clothing/Head/Modsuits/captain.rsi
     layers:
@@ -724,6 +749,8 @@
       - state: equipped-HEAD-sealed
       head-resomi:
       - state: equipped-HEAD-sealed-resomi
+      head-vox:
+      - state: equipped-HEAD-sealed-vox
   - type: Armor
     modifiers:
       coefficients:
